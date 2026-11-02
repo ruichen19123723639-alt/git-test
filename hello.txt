@@ -1,7 +1,7 @@
 hello git! hello git world!cherrycommit
 hello git! hello git world!orange commit!
 hello git! hello git world!
-hello git! hello git world!
+hello git! hello git world!Cherrry fork commit!
 hello git! hello git world!
 hello git! 
 hello git! hello git world! master commit!
