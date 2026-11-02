@@ -7,5 +7,6 @@ hello git!
 hello git! hello git world! master commit!
 hello git! hello git world! fix-bug commit!
 hello git! hello git world! push commit!
+hello git! hello git world!gitee add commit test!
 
 
